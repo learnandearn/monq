@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/scttnlsn/monq.git"
+    "url": "git://github.com/learnandearn/monq.git"
   },
   "dependencies": {
     "mongojs": "^2.1.0"
